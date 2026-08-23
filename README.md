@@ -2,6 +2,8 @@
 
 **Does late delivery drive bad reviews at a Brazilian e-commerce marketplace — and what does it cost?**
 
+**[View the live dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNjFhNzUwOWEtZGZjZC00MjExLWI3NjgtYmQ4OGJlOGNiOGViIiwidCI6ImNmYmJiNzY1LWQyMzItNDFiYy04N2I0LTQ3MjE4OTM3Yjc0NyJ9)**
+
 SQL analysis in PostgreSQL, dashboard in Power BI. 96,203 delivered orders, January 2017 to August 2018.
 
 ---
